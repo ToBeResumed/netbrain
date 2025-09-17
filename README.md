@@ -2,6 +2,7 @@
 An embodied agent framework
 
 # **Pipeline**
-![image.png](.Pipeline.png)
-
+<div align="center">
+  <img src="https://github.com/ToBeResumed/netbrain/blob/main/Pipeline.png" width="600"/>
+</div>
 Coming soon!
