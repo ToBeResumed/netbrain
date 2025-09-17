@@ -1,4 +1,4 @@
-# netbrain
+# Netbrain
 An embodied agent framework
 
 # **Pipeline**
